@@ -46,7 +46,7 @@ p {
   left: 2em;
 }
 
-button {
+div {
  font-size: 1rem;
   color: #fff;
   text-align: center;
@@ -55,6 +55,6 @@ button {
   right: 2em;
 }
 
-button:hover {
+div:hover {
   cursor: pointer;
 }
